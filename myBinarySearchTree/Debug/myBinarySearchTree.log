@@ -1,0 +1,3 @@
+﻿  myBinarySearchTree.cpp
+C:\Users\g9506\source\repos\myBinarySearchTree\myBinarySearchTree\BST.h(286): warning C4715: 'BST::find_pre': 不是所有控制路徑都傳回值
+  myBinarySearchTree.vcxproj -> C:\Users\g9506\source\repos\myBinarySearchTree\Debug\myBinarySearchTree.exe
